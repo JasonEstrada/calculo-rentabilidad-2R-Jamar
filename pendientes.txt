@@ -1,0 +1,2 @@
+prop_cost_merc_vend: sacar una proporción exclusiva para insumos. 
+
